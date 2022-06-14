@@ -18,7 +18,7 @@ public class Rettangolo {
 	
 	void stampaRisultato() {
 		
-		System.out.println("Il perimetro del rettantolo inserito è pari a " + calcolaPerimetro() + ", l'area del rettangolo invece è pari a " + calcolaArea());
+		System.out.println("Il perimetro del rettangolo inserito è pari a " + calcolaPerimetro() + ", l'area del rettangolo invece è pari a " + calcolaArea());
 		
 	}
 	
